@@ -1,3 +1,16 @@
-## Envio Blank Template
+before install envio as global
+ - npm i -g envio
 
-*Please refer to the [documentation website](https://docs.envio.dev) for a thorough guide on all Envio indexer features*
+Run this only if you are creating new contract
+- envio init
+
+After setting Up
+- envio codegen
+
+To Run the indexer locally
+- envio dev
+
+  
+
+
+ 
