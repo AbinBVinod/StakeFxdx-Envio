@@ -69,3 +69,4 @@ type EventsSummary {
       unstaked: Boolean!
     eventsSummary: String!
 }
+
