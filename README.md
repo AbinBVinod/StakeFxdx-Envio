@@ -9,6 +9,7 @@ Run this only if you are creating new subgraph aka-envio
 *install dependency*
 - npm i
 
+*Must run codegen to generate .bs.js file and other dependency*
 After setting Up
 - envio codegen
 
