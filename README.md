@@ -4,6 +4,11 @@ before install envio as global
 Run this only if you are creating new subgraph aka-envio
 - envio init
 
+
+
+**install dependency*
+- npm i
+
 After setting Up
 - envio codegen
 
