@@ -12,6 +12,8 @@ After setting Up
 To Run the indexer locally
 - envio dev
 
+hasura pass(testing)
+
   
 
 

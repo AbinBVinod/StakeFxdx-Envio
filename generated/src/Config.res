@@ -133,7 +133,7 @@ let config: chainConfigs = [
     "8453",
     {
       syncSource: Skar("https://base.hypersync.xyz"),
-      startBlock: 0,
+      startBlock: 7578558,
       chainId: 8453,
       contracts: [
         {
