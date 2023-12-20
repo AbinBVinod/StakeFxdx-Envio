@@ -6,7 +6,7 @@ Run this only if you are creating new subgraph aka-envio
 
 
 
-**install dependency*
+*install dependency*
 - npm i
 
 After setting Up
