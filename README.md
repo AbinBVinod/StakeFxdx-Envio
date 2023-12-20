@@ -8,7 +8,9 @@ After setting Up
 - envio codegen
 
 
-(before running dev or start you must run docker in background)
+**(before running dev or start you must run docker in background)**
+
+
 To Run the indexer locally
 - envio dev
 
