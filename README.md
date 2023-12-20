@@ -1,7 +1,7 @@
 before install envio as global
  - npm i -g envio
 
-Run this only if you are creating new contract
+Run this only if you are creating new subgraph aka-envio
 - envio init
 
 After setting Up
